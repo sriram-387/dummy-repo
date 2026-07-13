@@ -1,6 +1,6 @@
 /target/
-.project
-.classpath
+*.project
+*.classpath
 src/main/java
 src/test/resources
 src/test/munit
